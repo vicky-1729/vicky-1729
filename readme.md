@@ -17,7 +17,7 @@ I am an **AWS DevOps Engineer** and **Technical SME at Wipro**, passionate about
 - **Version Control**: Git, GitHub
 
 ## 📫 Contact Me
-- 📧 Email: [vaikuntaraojagalingi@gmail.com](mailto:vaikuntaraojagalingi@gmail.comrao
+- 📧 Email: [vaikuntaraojagalingi@gmail.com](mailto:vaikuntaraojagalingi@gmail.com)
 
 ---
 
