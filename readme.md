@@ -5,8 +5,8 @@ I am an **AWS DevOps Engineer** and **Technical SME at Wipro**, passionate about
 
 ## 🎯 Certifications
 - 🏅 AWS Certified Cloud Practitioner
-- 🏅 AWS Certified Developer – Associate
 - 🧠 AWS Certified AI Practitioner
+- 🏅 AWS Certified Developer – Associate
 
 ## 🛠️ Skills & Tools
 - **Cloud Platforms**: AWS (EC2, S3, Lambda, IAM, CloudFormation, etc.)
@@ -20,6 +20,4 @@ I am an **AWS DevOps Engineer** and **Technical SME at Wipro**, passionate about
 - 📧 Email: [vaikuntaraojagalingi@gmail.com](mailto:vaikuntaraojagalingi@gmail.com)
 
 ---
-
-_This README was updated on 2025-09-06_
 
