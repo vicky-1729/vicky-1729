@@ -32,11 +32,7 @@ I'm a **AWS DevOps Engineer** and **Technical Subject Matter Expert at Wipro**, 
 - **Version Control**: Git, GitHub, GitLab, Bitbucket
 - **API Development**: RESTful services, microservices architecture
 
-## 🌟 Key Achievements
-- Successfully migrated legacy infrastructure to AWS, reducing operational costs by 40%
-- Implemented automated CI/CD pipelines, improving deployment frequency by 300%
-- Led DevOps adoption initiatives across multiple development teams
-- Architected scalable cloud solutions serving millions of users
+
 
 ## 📫 Let's Connect
 - 📧 **Email**: [vaikuntaraojagalingi@gmail.com](mailto:vaikuntaraojagalingi@gmail.com)
