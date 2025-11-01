@@ -17,17 +17,42 @@
 
 ---
 
-### 🛠️ Tech Stack
+<h2 align="center">🌳 Tech Stack Overview</h2>
 
-| Category | Tools |
-|-----------|-------|
-| ☁️ **Cloud Platforms** | AWS (EC2, S3, RDS, VPC, IAM, Lambda, ECS, EKS) |
-| 🧱 **IaC** | Terraform • Ansible • CloudFormation |
-| ⚙️ **CI/CD** | Jenkins • GitLab CI • GitHub Actions |
-| 🐳 **Containers** | Docker • Kubernetes (EKS) • Helm |
-| 🔐 **Security & Quality** | SonarQube • Dependabot • Veracode |
-| 📈 **Monitoring & Logging** | CloudWatch • Prometheus • Grafana • Datadog |
-| 🧑‍💻 **Scripting** | Bash • Python • AWS CLI |
+<pre align="center">
+
+📦 <b>Cloud & DevOps</b>
+│
+├── ☁️ <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+├── 🐳 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+├── ☸️ <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+├── ⚙️ <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+└── 🧰 <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+💻 <b>Programming Languages</b>
+│
+├── 🐍 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+├── ☕ <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+└── ⚡ <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+🗄️ <b>Databases</b>
+│
+├── 🐬 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+└── 🍃 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+🖥️ <b>Operating Systems</b>
+│
+├── 🐧 <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+├── 🍎 <img src="https://img.shields.io/badge/macOS-%23999999.svg?style=for-the-badge&logo=apple&logoColor=white"/>
+└── 🪟 <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white"/>
+
+📊 <b>Monitoring & Tools</b>
+│
+├── 🔥 <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"/>
+├── 📈 <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+└── 🧑‍💻 <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+</pre>
 
 ---
 
