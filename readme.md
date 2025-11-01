@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-
 <br><br>
 
 💻 <b>Programming & Scripting</b><br>
@@ -37,21 +36,18 @@
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Shell_Scripting-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
 <br><br>
 
 🗄️ <b>Databases</b><br>
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/DynamoDB-%2300ADEF.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-
 <br><br>
 
 🖥️ <b>Operating Systems</b><br>
 <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/macOS-%23999999.svg?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white"/>
-
 <br><br>
 
 📊 <b>Monitoring & Tools</b><br>
@@ -60,7 +56,6 @@
 <img src="https://img.shields.io/badge/CloudWatch-%23FF4F8B.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/ELK_Stack-%230072C6.svg?style=for-the-badge&logo=elastic&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
 <br><br>
 
 🔐 <b>Security & Access Management</b><br>
