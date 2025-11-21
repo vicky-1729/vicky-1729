@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Vaikunta Rao Jagalingi (Vicky)</h1>
+<h1 align="center">👋 Hi, I'm Vaikunta Rao Jagalingi [Vicky]</h1>
 
 <p align="center">
   🚀 <b>AWS Cloud & DevOps Engineer</b> with 3+ years of experience designing, automating, and managing scalable AWS infrastructure.<br>
